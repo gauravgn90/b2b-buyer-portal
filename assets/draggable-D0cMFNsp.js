@@ -1,0 +1,1 @@
+import"./resizable-CyxYMIhD.js";

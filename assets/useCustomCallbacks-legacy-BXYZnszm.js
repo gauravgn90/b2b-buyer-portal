@@ -1,0 +1,1 @@
+System.register([],(function(t,n){"use strict";return{execute:function(){var n=t("C",(t=>(t.OnQuoteCreate="on-quote-create",t.OnAddToShoppingList="on-add-to-shopping-list",t.OnClickCartButton="on-click-cart-button",t))(n||{}));t("u",((t,n)=>{const e=n=>window.b2b.callbacks.dispatchEvent(t,n);return t=>n(t,e)}))}}}));

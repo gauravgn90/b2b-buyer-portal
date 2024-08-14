@@ -1,0 +1,1 @@
+System.register(["./react-setup-legacy-Bwwh9_Jr.js","../index-legacy.BPYbSXo1.js"],(function(e,s){"use strict";var t,n,a,c;return{setters:[e=>{t=e.aB,n=e.a6,a=e.a_,c=e.a$},null],execute:function(){e("c",(({data:e,isB2BUser:s})=>{const i=e,r=s?a:c;if(s){const{submitShoppingListPermission:e}=t();i.status=e?30:0}else i.channelId=n;return r({...i,channelId:n})}))}}}));

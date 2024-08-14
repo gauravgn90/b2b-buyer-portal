@@ -1,0 +1,1 @@
+import{s as t,e as n}from"./mui-5MYSBV5R.js";const s=t("div")(({paddings:e})=>({padding:e})),o=t("div")({display:"flex",flexDirection:"column",justifyContent:"center",alignItems:"center",width:"100%",height:"100%"});t(n)({height:"40px"});const a=t("div")({margin:"16px 0 20px 16px"});export{a as B,o as L,s as a};
